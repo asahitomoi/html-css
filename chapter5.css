@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+
+.b1{
+	width:100%;
+	height:200px;
+	background-image:url(img-chap5/box1.jpg);
+	background-size:cover;
+	background-position:center;
+}
+
+.b2{
+	width:100%;
+	height:200px;
+	background-image:url(img-chap5/box2.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.b3{
+	width:100%;
+	height:200px;
+	background-image:url(img-chap5/box3.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.b4{
+	width:100%;
+	height:200px;
+	background-image:url(img-chap5/box4.jpg);
+	background-size:cover;
+	background-position:center;
+}

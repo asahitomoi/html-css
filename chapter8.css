@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.clearfix::after{
+	content:"";
+	display:block;
+	clear:both;
+
+}
+
+main{
+	width:960px;
+	margin:50px auto;
+}
+
+.main-box{
+	float:left;
+	width:32px;
+	border:2px solid grey;
+}
+
+.step{
+	background-color:orange;
+	color:white;
+	width:40px;
+	height:20px;
+
+}
+
+.main-image{
+	background-image:(img-chap8/flow01.png);
+	background-size:cover;
+}
